@@ -1,0 +1,23 @@
+.first-page {
+    border: 2px solid black;
+}
+
+.right-img {
+    height: 500px;
+}
+
+.left-img {
+    height: 500px;
+}
+
+.text-para{
+    font-size: 12px;
+    color: #4a446b;
+    margin-top: 20px;
+    font-weight: 400;
+    font-style: bold;
+}
+
+.text-heading{
+    font-size: 22px;
+}
